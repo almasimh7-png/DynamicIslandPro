@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">داینامیک آیلند پرو</string>
+    <string name="perm_overlay">مجوز نمایش روی صفحه</string>
+    <string name="perm_notification">دسترسی شنیدن اعلان‌ها</string>
+    <string name="perm_battery">نادیده گرفتن بهینه‌سازی باتری</string>
+    <string name="perm_accessibility">سرویس دسترس‌پذیری (رویدادهای تماس)</string>
+    <string name="start_overlay">شروع اوورلی</string>
+    <string name="stop_overlay">توقف اوورلی</string>
+    <string name="start_timer">شروع تایمر (نمونه ۱۰ ثانیه)</string>
+    <string name="pause_timer">توقف موقت</string>
+    <string name="reset_timer">بازنشانی</string>
+    <string name="notif_channel_overlay">سرویس اوورلی</string>
+    <string name="notif_channel_timer">سرویس تایمر</string>
+    <string name="timer_running">تایمر در حال اجرا</string>
+    <string name="timer_paused">تایمر متوقف</string>
+    <string name="timer_done">تایمر تمام شد</string>
+    <string name="incoming_call">تماس ورودی</string>
+    <string name="call_ended">تماس پایان یافت</string>
+</resources>

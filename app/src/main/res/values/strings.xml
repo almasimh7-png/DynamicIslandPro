@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dynamic Island Pro</string>
+    <string name="perm_overlay">Overlay permission</string>
+    <string name="perm_notification">Notification listener access</string>
+    <string name="perm_battery">Ignore battery optimizations</string>
+    <string name="perm_accessibility">Accessibility service (call events)</string>
+    <string name="start_overlay">Start overlay</string>
+    <string name="stop_overlay">Stop overlay</string>
+    <string name="start_timer">Start timer (10s demo)</string>
+    <string name="pause_timer">Pause timer</string>
+    <string name="reset_timer">Reset timer</string>
+    <string name="notif_channel_overlay">Overlay service</string>
+    <string name="notif_channel_timer">Timer service</string>
+    <string name="timer_running">Timer running</string>
+    <string name="timer_paused">Timer paused</string>
+    <string name="timer_done">Timer finished</string>
+    <string name="incoming_call">Incoming call</string>
+    <string name="call_ended">Call ended</string>
+</resources>
